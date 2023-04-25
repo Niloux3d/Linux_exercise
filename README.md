@@ -1,2 +1,2 @@
 # Linux_exercise
-记录每天的Linux学习内容
+记录Linux学习内容
